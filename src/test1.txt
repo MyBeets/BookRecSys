@@ -1,0 +1,1 @@
+title;; author;; pubdate;; genre1;; genre2

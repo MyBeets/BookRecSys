@@ -1,0 +1,2 @@
+title1;; author;; pubdate;; genre3;; genre4
+title2;; author;; pubdate;; genre5;; genre6
